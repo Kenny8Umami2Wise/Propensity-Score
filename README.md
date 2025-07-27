@@ -4,8 +4,7 @@ This repository contains a poster titled **"Propensity Score Matching"**, create
 
 ## Overview ##
 
-The poster introduces the concept and application of **propensity score matching (PSM)** using simulated data and the Lalonde dataset.  
-Implemented in R with methods like nearest neighbor, optimal full, and subclassification matching.
+The poster introduces the concept and application of **propensity score matching (PSM)** using simulated data and the Lalonde dataset. Implemented in R with methods like nearest neighbor, optimal full, and subclassification matching.
 
 ## Methods ##
 
